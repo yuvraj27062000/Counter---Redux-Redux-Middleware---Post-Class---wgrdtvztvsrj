@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Counter from "./counterContainer";
+import  counterContainer from "src/components/counterContainer"
 
 class App extends Component {
     render() {
